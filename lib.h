@@ -43,7 +43,7 @@ string adjectives[] = {
     "Misty",
     "Motionless",
     "Muddy",
-    "Old-fashioned,"
+    "Old-fashioned",
     "Plain",
     "Poised",
     "Precious",
@@ -58,7 +58,7 @@ string adjectives[] = {
     "Ugliest",
     "Unsightly",
     "Unusual",
-    "Wide-eyed,"
+    "Wide-eyed",
     "Alive",
     "Annoying",
     "Bad",
