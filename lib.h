@@ -48,6 +48,8 @@ string adjectives[] = {
     "Poised",
     "Precious",
     "Quaint",
+    "Radical",
+    "Rambunctious",
     "Shiny",
     "Smoggy",
     "Sparkling",
