@@ -11,15 +11,16 @@ void printOutput (bool sameLetter)
     }
     else
     {
-        int r = rand() % (sizeof(adjectives) / sizeof(*adjectives));
+        int r2 = rand() % (sizeof(animals) / sizeof(*animals));
         while (1)
         {
-            int r2 = rand() % (sizeof(animals) / sizeof(*animals));
+            int r = rand() % (sizeof(adjectives) / sizeof(*adjectives));
             if (adjectives[r][0] == animals[r2][0])
             {
                 cout << adjectives[r] << animals[r2] << endl;
                 break;
             }
+            
         }
     }
 }
